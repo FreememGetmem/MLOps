@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![View on Medium](https://img.shields.io/badge/Medium-View%20on%20Medium-blue?logo=medium)](https://towardsdatascience.com/how-to-structure-an-ml-project-for-reproducibility-and-maintainability-54d5e53b4c82?sk=c3d05ae5b8ccc95822618d0dacfad8a4)
 
 # Data Science Cookie Cutter
@@ -51,3 +52,7 @@ make docs_save
 When creating a PR, the tests in your `tests` folder will automatically run. 
 
 ![](images/github_actions.png)
+=======
+# MLOps
+MLOPS - From Zero to Hero
+>>>>>>> 258a660767340818c92eb2dd595d183ec7f90532
